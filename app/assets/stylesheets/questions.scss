@@ -1,3 +1,28 @@
-// Place all the styles related to the questions controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.input-coach {
+  border-radius: 5px;
+  width: 320px;
+  height: 50px;
+  margin-right: 0px;
+}
+
+.btn {
+  background-color: #ba7ff4;
+  border-radius: 5px;
+  border: 0px;
+  height: 55px;
+  margin-left: 0px;
+  color: white;
+  width: 100px;
+}
+
+.btn:hover {
+  font-weight: bolder;
+  background-color: white;
+  color: #ba7ff4;
+  border: 2px;
+  border-color: #ba7ff4;
+}
+
+.link {
+  text-decoration: none;
+}
